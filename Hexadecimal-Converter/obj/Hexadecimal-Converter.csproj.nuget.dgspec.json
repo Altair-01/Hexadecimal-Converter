@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abdoulaye SAMBE\\Desktop\\C#\\codespace\\Hexadecimal-Converter\\Hexadecimal-Converter\\Hexadecimal-Converter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abdoulaye SAMBE\\Desktop\\C#\\codespace\\Hexadecimal-Converter\\Hexadecimal-Converter\\Hexadecimal-Converter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdoulaye SAMBE\\Desktop\\C#\\codespace\\Hexadecimal-Converter\\Hexadecimal-Converter\\Hexadecimal-Converter.csproj",
+        "projectName": "Hexadecimal-Converter",
+        "projectPath": "C:\\Users\\Abdoulaye SAMBE\\Desktop\\C#\\codespace\\Hexadecimal-Converter\\Hexadecimal-Converter\\Hexadecimal-Converter.csproj",
+        "packagesPath": "C:\\Users\\Abdoulaye SAMBE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdoulaye SAMBE\\Desktop\\C#\\codespace\\Hexadecimal-Converter\\Hexadecimal-Converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abdoulaye SAMBE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
